@@ -97,23 +97,16 @@ F1 Score: 89%
 
 ---
 
-## 📸 Application Screenshots
+## 📸 Screenshots
 
 ### Home Page
+![Home Page](dashboard1.png)
 
-![Home](images/home.png)
-
-### Spam Detection
-
-![Spam](images/spam.png)
+### Spam Message Detection
+![Spam Detection](dashboard2.png)
 
 ### Legitimate Message Detection
-
-![Ham](images/ham.png)
-
-### Prediction Dashboard
-
-![Dashboard](images/dashboard.png)
+![Legitimate Message](dashboard3.png)
 
 ---
 
